@@ -16,6 +16,6 @@ I focus on back-end development but I take a little risk on the front-end 😅!
  
 In this Github are some academic works developed and also personal projects, in my journey as a developer, I have worked with the following languages:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuszl&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuszl&layout=compact&theme=chartreuse-dark)
 
 ***
