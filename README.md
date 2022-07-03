@@ -14,8 +14,10 @@
  From the universe of data, I work on research/transfrmation of raw data into information for decision making.
  
  Interased in the areas of BigData, Data Lake and Data Data Warehouse.
+ 
+---
 
-- ⚡ In this Github are my works developed in opensource projects, and also academic works, sharing the experience with others!
+## ⚡ In this Github are my works developed in opensource projects, and also academic works, sharing the experience with others!
 
 <p align="left">
 
@@ -57,8 +59,10 @@
  
  </p>
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuszl&layout=compact&theme=midnight-purple)
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuszl&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ***
+
 
 
